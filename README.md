@@ -1,4 +1,10 @@
 # curso_git
 curso de git pruebas
 creando un conflicto
-estamos modificando la rama dev
+estamos modificando la r
+
+
+
+
+
+ama dev
