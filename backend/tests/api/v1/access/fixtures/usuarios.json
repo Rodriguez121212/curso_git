@@ -1,0 +1,58 @@
+[
+  {
+    "id": "674a74f8-71cb-45f0-a6d0-d43845fe6eec",
+    "username": "test_username",
+    "first_name": "test_firstname",
+    "last_name": "test_lastname",
+    "email": "test@kadasoftware.com",
+    "disabled": false
+  },
+  {
+    "id": "844cc2ad-0623-4f88-a554-16b0bcab8165",
+    "username": "disabled_username",
+    "first_name": "disabled_firstname",
+    "last_name": "disabled_lastname",
+    "email": "disabled@kadasoftware.com",
+    "disabled": true
+  },
+  {
+    "id": "11bd34f0-a1a6-4ce1-8fc8-167afe5a576a",
+    "username": "test_username_2",
+    "first_name": "test_firstname2",
+    "last_name": "test_lastname2",
+    "email": "test2@kadasoftware.com",
+    "disabled": false
+  },
+  {
+    "id": "08ca40f0-eb24-4c46-a5cc-ce2441a52bb4",
+    "username": "newusertest",
+    "first_name": "newuser",
+    "last_name": "newuserlastmod",
+    "email": "newuser@kadasoftware.com",
+    "disabled": false
+  },
+  {
+    "id": "4fc2d05f-5307-4c75-9bfa-02f740716695",
+    "username": "newusertest4",
+    "first_name": "newuser4",
+    "last_name": "newuserlastmod4",
+    "email": "newuser4@kadasoftware.com",
+    "disabled": true
+  },
+  {
+    "id": "7193acbb-23a2-4c8e-b123-c9f587c16ace",
+    "username": "authorized_user",
+    "first_name": "fake_first_name",
+    "last_name": "fake_last_name",
+    "email": "fake_email@emai.com",
+    "disabled": false
+  },
+  {
+    "id": "ec1dff63-6a1f-4413-8f20-e7cabdfe5e7a",
+    "username": "authorized_user_for_update_password",
+    "first_name": "fake_first_name2",
+    "last_name": "fake_last_name2",
+    "email": "fake_email2@emai.com",
+    "disabled": false
+  }
+]

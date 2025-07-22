@@ -1,0 +1,14 @@
+[
+  {
+    "id": "50fd83d8-65fe-440a-b977-ac8ea63880ed",
+    "role_name": "usuario"
+  },
+  {
+    "id": "a99ee8a2-8619-4a60-87c5-68b764c2adb5",
+    "role_name": "dont_assign_this_role"
+  },
+  {
+    "id": "69a45248-5cdd-4f7e-8fd3-ce9a2d94e0f1",
+    "role_name": "admin"
+  }
+]

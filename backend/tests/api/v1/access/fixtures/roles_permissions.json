@@ -1,0 +1,86 @@
+[
+  {
+    "role_id": "50fd83d8-65fe-440a-b977-ac8ea63880ed",
+    "permission_id": "update_current_user_password"
+  },
+  {
+    "role_id": "50fd83d8-65fe-440a-b977-ac8ea63880ed",
+    "permission_id": "get_current_user_info"
+  },
+  {
+    "role_id": "69a45248-5cdd-4f7e-8fd3-ce9a2d94e0f1",
+    "permission_id": "get_all_users"
+  },
+  {
+    "role_id": "69a45248-5cdd-4f7e-8fd3-ce9a2d94e0f1",
+    "permission_id": "assign_role_permissions"
+  },
+  {
+    "role_id": "69a45248-5cdd-4f7e-8fd3-ce9a2d94e0f1",
+    "permission_id": "assign_user_roles"
+  },
+  {
+    "role_id": "69a45248-5cdd-4f7e-8fd3-ce9a2d94e0f1",
+    "permission_id": "get_role"
+  },
+  {
+    "role_id": "69a45248-5cdd-4f7e-8fd3-ce9a2d94e0f1",
+    "permission_id": "create_new_role"
+  },
+  {
+    "role_id": "69a45248-5cdd-4f7e-8fd3-ce9a2d94e0f1",
+    "permission_id": "create_new_user"
+  },
+  {
+    "role_id": "69a45248-5cdd-4f7e-8fd3-ce9a2d94e0f1",
+    "permission_id": "delete_role"
+  },
+  {
+    "role_id": "69a45248-5cdd-4f7e-8fd3-ce9a2d94e0f1",
+    "permission_id": "get_all_permissions"
+  },
+  {
+    "role_id": "69a45248-5cdd-4f7e-8fd3-ce9a2d94e0f1",
+    "permission_id": "get_all_roles"
+  },
+  {
+    "role_id": "69a45248-5cdd-4f7e-8fd3-ce9a2d94e0f1",
+    "permission_id": "get_current_user_info"
+  },
+  {
+    "role_id": "69a45248-5cdd-4f7e-8fd3-ce9a2d94e0f1",
+    "permission_id": "get_user_info"
+  },
+  {
+    "role_id": "69a45248-5cdd-4f7e-8fd3-ce9a2d94e0f1",
+    "permission_id": "get_user_info_with_roles_and_permissions"
+  },
+  {
+    "role_id": "69a45248-5cdd-4f7e-8fd3-ce9a2d94e0f1",
+    "permission_id": "unassign_role_permissions"
+  },
+  {
+    "role_id": "69a45248-5cdd-4f7e-8fd3-ce9a2d94e0f1",
+    "permission_id": "unassign_user_roles"
+  },
+  {
+    "role_id": "69a45248-5cdd-4f7e-8fd3-ce9a2d94e0f1",
+    "permission_id": "update_current_user_password"
+  },
+  {
+    "role_id": "69a45248-5cdd-4f7e-8fd3-ce9a2d94e0f1",
+    "permission_id": "update_role"
+  },
+  {
+    "role_id": "69a45248-5cdd-4f7e-8fd3-ce9a2d94e0f1",
+    "permission_id": "update_user_info"
+  },
+  {
+    "role_id": "69a45248-5cdd-4f7e-8fd3-ce9a2d94e0f1",
+    "permission_id": "get_roles"
+  },
+  {
+    "role_id": "69a45248-5cdd-4f7e-8fd3-ce9a2d94e0f1",
+    "permission_id": "update_user_password"
+  }
+]

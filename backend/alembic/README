@@ -1,0 +1,13 @@
+Generic single-database configuration.
+
+# Autogenerate from Base
+
+```
+docker exec btu-api-dev  alembic revision --autogenerate -m "EDITA ESTE COMENTARIO EN MINUSCULAS"
+```
+
+# Running a Migration
+
+````
+docker exec btu-api-dev  alembic upgrade head```
+````
